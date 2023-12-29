@@ -2160,7 +2160,7 @@ body.menu-is-open {
   width: 9rem;
   border-radius: 50%;
   background-color: #793ea5;
-  background-image: url(../images/icons/icon-play.svg);
+  background-image: url(../images/whatsapp.svg);
   background-repeat: no-repeat;
   background-position: 55% center;
   background-size: 24px 27px;
@@ -3603,7 +3603,7 @@ html.no-csstransitions .home-content__main {
 .s-contact {
   padding-top: 16.2rem;
   padding-bottom: 21rem;
-  background-color: #5e3080;
+  background-color:black ;
   color: rgba(255, 255, 255, 0.6);
   text-align: center;
   position: relative;
