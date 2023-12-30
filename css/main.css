@@ -2200,8 +2200,8 @@ body.menu-is-open {
 }
 .whatsapp{
   position: fixed;
-  bottom: 20px;
-  right: 10px;
+  bottom: 25px;
+  right: 25px;
   width: 64px;
   z-index: 99999999;
 }
