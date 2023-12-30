@@ -2198,7 +2198,13 @@ body.menu-is-open {
   margin-top: 7.8rem;
   position: relative;
 }
-
+.whatsapp{
+  position: fixed;
+  bottom: 20px;
+  right: 10px;
+  width: 64px;
+  z-index: 99999999;
+}
 
 .home-content__button .btn {
   width: 30rem;
